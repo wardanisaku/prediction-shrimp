@@ -1,5 +1,14 @@
 # Data Evaluation, Predictive Model, API, and Streamlit Interface
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-repo/logo.svg" width="400" alt="Project Logo">
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-repo/actions"><img src="https://github.com/your-repo/workflows/tests/badge.svg" alt="Build Status"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
+
 ## About the Project
 
 This project provides a structured approach to:
@@ -83,4 +92,5 @@ Contributions are welcome! Please check the [contribution guidelines](https://gi
 ## License
 
 This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
+
 
